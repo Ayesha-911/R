@@ -1,0 +1,16 @@
+a1=array(c(1,3,5,7))
+a2=array(seq(1,9),dim=c(3,2))
+a2
+vec1=seq(1,9)
+vec2=c(10,20,30)
+a3=array(vec1,vec2)
+a3
+?append
+arr=[1,2,3,4]
+arr
+arr=append(arr,3,1)
+arr[arr>5]
+arr[arr>5,arr<20]
+arr[-5]
+arr[arr!=9]
+arr

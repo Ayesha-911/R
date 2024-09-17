@@ -1,0 +1,17 @@
+help("reserved")
+a=6
+b<-5
+8->c
+x<<-9
+x<<<-9
+.abc
+.123
+.123=6
+_abc=8
+abc=8
+ls(abc)
+ls("abc")
+a=9
+b=a
+b->a
+._a=8

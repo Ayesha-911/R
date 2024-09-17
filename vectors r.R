@@ -1,0 +1,9 @@
+vec1=c(1,50,4,7)
+vec1
+vec1[2]
+vec1[3]=6
+vec1
+vec1[2]=0
+vec1
+vec1[4]=NA
+vec1=len
