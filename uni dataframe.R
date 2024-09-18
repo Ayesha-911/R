@@ -1,0 +1,7 @@
+uid=c(1,2,3,4,5)
+uname=c("Acharya","RNSIT","CMRIT","JSS","BIT")
+strength=c(1000,2000,1300,900,1400)
+result=c("88","90","98","89","97")
+location=c("soldevanahalli","Rajajinagar","Peenya","Koramangala","Yeshwantpur")
+uni_data=data.frame(uid,uname,strength,result,location)
+print(uni_data)
