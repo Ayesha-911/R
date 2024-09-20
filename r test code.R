@@ -1,9 +1,6 @@
-x = list(list(0,2), list(3,4), list(5,6))
+x = list(list(1,3), list(5,6), list(8,9))
 print("Original nested list:")
 print(x)
 e = lapply(x, '[[', 2)
 print("Second element of the nested list:")
 print(e)
-
-  
-  
